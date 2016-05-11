@@ -1,2 +1,2 @@
 # blueflamecapital
-Blue Flame Capital
+BlueFlame Capital
